@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Jeff Umbricht, a full-stack developer with a focus on the front-end.
+I'm Jeff Umbricht, a Senior Software Engineer with a focus on the front-end and Drupal.
 
 👀 Find me on [LinkedIn](https://www.linkedin.com/in/jeffumbricht/) and check out my [website](https://jeffumbricht.com).
 
