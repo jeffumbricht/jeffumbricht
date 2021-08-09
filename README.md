@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Jeff Umbricht, a Senior Software Engineer with a focus on the front-end and Drupal.
+I'm Jeff Umbricht, a Senior Software Engineer with a focus on front-end and web application development.
 
 👀 Find me on [LinkedIn](https://www.linkedin.com/in/jeffumbricht/) and check out my [website](https://jeffumbricht.com).
 
